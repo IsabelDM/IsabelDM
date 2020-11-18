@@ -1,5 +1,14 @@
 ![Banner](https://user-images.githubusercontent.com/37211333/99529592-5b684b80-29a0-11eb-9aea-4e5bf77f261e.jpg)
 
+
+💻 About Me
+======
+- 🎓 Ingeniería Informática - Escuela Superior de Ciudad Real (UCLM).
+- 🎓 Inglés nivel B1 por Cambridge.
+
+⚙️ Tech & Tools
+======
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelDM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IsabelDM/IsabelDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsabelDM)](https://github.com/anuraghazra/github-readme-stats)
 -->
