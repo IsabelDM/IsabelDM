@@ -1,4 +1,4 @@
-![alt text](https://github.com/IsabelDM/IsabelDM/issues/1#issue-745609951)
+![Banner](https://user-images.githubusercontent.com/37211333/99529592-5b684b80-29a0-11eb-9aea-4e5bf77f261e.jpg)
 
 <!--
 **IsabelDM/IsabelDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
